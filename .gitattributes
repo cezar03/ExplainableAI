@@ -1,8 +1,0 @@
-* text=auto
-
-*.md text eol=lf
-*.txt text eol=lf
-*.csv text eol=lf
-*.arff text eol=lf
-*.ipynb text eol=lf
-*.png binary
